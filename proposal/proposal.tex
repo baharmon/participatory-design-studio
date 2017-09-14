@@ -1,0 +1,117 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%%%  Syllabus template for use with style files at http://kjhealy.github.com/latex-custom-kjh
+%%%  Kieran Healy
+
+\documentclass[11pt,article,oneside]{memoir}
+
+% packages
+\usepackage{org-preamble-xelatex}
+\usepackage{wallpaper}
+\usepackage{xcolor}
+
+\AtBeginBibliography{\small}
+
+% Definitions
+\def\myauthor{Author}
+\def\mytitle{Title}
+\def\mycopyright{\myauthor}
+\def\mykeywords{}
+\def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
+\def\myaffiliation{Louisiana State University}
+\def\myaddress{309 Design}
+\def\myemail{baharmon@lsu.edu} 
+\def\myweb{https://baharmon.github.io/}
+\def\myphone{919.622.8414}
+\def\myversion{}
+\def\myrevision{}
+\def\myaffiliation{\ \\Louisiana State University}
+\def\myauthor{Brendan Harmon}
+\def\mykeywords{Landscape Architecture}
+\def\mytitle{Participatory modeling for Point-aux-Chenes \newline}
+\def\mysubtitle{\large \textbf{Coastal Sustainability Studio |} Community Project Proposal}
+% LA 7061 Advanced Topics Studio
+
+% color
+\makeatletter
+\newcommand{\globalcolor}[1]{%
+  \color{#1}\global\let\default@color\current@color
+}
+\makeatother
+
+% begin
+\begin{document}
+
+\setlength\bibitemsep{0.75em}
+
+% fonts
+\defaultfontfeatures{}
+\defaultfontfeatures{Scale=MatchLowercase}         
+\setmainfont[Scale=1, Path = fonts/lato/,BoldItalicFont=Lato-RegIta,BoldFont=Lato-Reg,ItalicFont=Lato-LigIta]{Lato-Lig}
+\setsansfont[Scale=1, Path = fonts/lato/,BoldItalicFont=Lato-RegIta,BoldFont=Lato-Reg,ItalicFont=Lato-LigIta]{Lato-Lig}
+\setmonofont[Mapping=tex-text,Scale=0.8,Path = fonts/inconsolata/]{i}
+
+\def\ind{\hangindent=1 true cm\hangafter=1 \noindent}
+\def\labelitemi{$\cdot$}
+\chapterstyle{article-4-sans}  
+\title{\LARGE \mytitle \newline \mysubtitle}     
+\author{\Large\myauthor \newline \footnotesize\texttt{\noindent\myemail}}
+%\date{Spring 2018. Design 217.\newline Monday, Wednesday, \& Friday 9:30am--11:30am.}
+%\published{\,}
+
+% -------------------------------- DESCRIPTION -------------------------------- 
+
+\pagenumbering{arabic}
+\globalcolor{black}
+\vspace*{-10em}
+\maketitle
+
+\section{Project description}
+% community outreach goals and processes
+% research and teaching aims and objectives
+
+\subsection{Tangible Landscape}
+
+
+\subsection{Cognitive mapping}
+
+\subsection{Team}
+% interdisciplinary nature
+
+\subsection{Deliverables}
+
+
+
+% -------------------------------- BUDGET -------------------------------- 
+\section{Budget}
+
+\begin{table}[H]
+\small
+\begin{tabular}{l r @{\hskip 0.1cm} l @{\hskip 0.5cm} l}
+%
+\ldots & \ldots & \ldots & \ldots \\
+%
+\end{tabular}
+\end{table}
+
+
+%% -------------------------------- LINKS -------------------------------- 
+%\section{Software}
+%Rhinoceros | \url{https://www.rhino3d.com/}\\
+%RhinoTerrain | \url{http://www.rhinoterrain.com/}\\
+%Iray for Rhino | \url{http://www.nvidia.com/object/iray-for-rhino.html}\\
+%Grasshopper | \url{http://grasshopper3d.com/}\\
+%Firefly % url ?
+
+% -------------------------------- BIBLIOGRAPHY -------------------------------- 
+\section{References}
+\renewcommand*{\bibfont}{\normalsize} %\small
+\vspace*{0.5cm}
+\nocite{*}
+\setlength\bibitemsep{1\baselineskip}
+\printbibliography[heading=none]
+
+\end{document}
