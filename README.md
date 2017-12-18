@@ -32,7 +32,6 @@ and another for the LSU College of Art and Design.
 [Blender](https://www.blender.org/) |
 [Rhino](https://www.rhino3d.com/) |
 [RhinoCAM](https://mecsoft.com/rhinocam-software/) |
-[ArcGIS](http://www.rhinoterrain.com/) |
 [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) |
 [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) |
 [Adobe InDesign](http://www.adobe.com/products/indesign.html)
