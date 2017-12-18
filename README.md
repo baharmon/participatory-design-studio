@@ -3,8 +3,8 @@
 # Participatory Design Studio: Serious Gaming
 
 <p align="center">
-<img src="images/sculpting_4.jpg" height="250">
-<img src="images/specimen_planting_3.jpg" height="250">
+<img src="images/sculpting_4.jpg" height="300">
+<img src="images/specimen_planting_3.jpg" height="300">
 </p>
 
 **Course description**
