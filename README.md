@@ -3,14 +3,14 @@
 # Participatory Design Studio: Serious Gaming
 
 <p align="center">
-<img src="images/sculpting_4.jpg" height="300">
-<img src="images/specimen_planting_3.jpg" height="300">
+<img src="images/sculpting_4.jpg" height="400">
+<img src="images/specimen_planting_3.jpg" height="400">
 </p>
 
 **Course description**
 In this studio you will design and develop serious games
 that explore the challenges of coastal change
-for the town of Jean Lafitte in Jefferson Parish, Louisiana.   
+for the town of Jean Lafitte in Jefferson Parish, Louisiana.
 These games will use Tangible Landscape -
 a tangible interface for GIS -
 to model, simulate, and visualize alternative future scenarios.
