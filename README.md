@@ -3,8 +3,8 @@
 # Participatory Design Studio: Serious Gaming
 
 <p align="center">
-<img src="images/sculpting_4.jpg" height="300">
-<img src="images/specimen_planting_3.jpg" height="300">
+<img src="images/sculpting_4.jpg" height="350">
+<img src="images/specimen_planting_3.jpg" height="350">
 </p>
 
 **Course description**
@@ -40,6 +40,13 @@ and another for the LSU College of Art and Design.
 
 **Tutorials** |
 [lecture.lsu.edu/](https://lecture.lsu.edu/)
+
+**Study area** | Jean Lafitte, Jefferson Parish, Louisiana
+<p align="center">
+<img src="images/jean_lafitte_elevation_2013.png" height="750">
+</p>
+
+
 
 ## License
 Open educational materials licensed CC BY-SA 4.0 by Brendan Harmon :monkey_face:. The license does not apply to logos, fonts, linked material, quotations, or reprinted images by other authors, which may have different licenses. The fonts used in this repository are licensed under the SIL Open Font License by their authors. The syllabus is based on a latex template by Kieran Healy hosted at https://github.com/kjhealy/latex-custom-kjh.
