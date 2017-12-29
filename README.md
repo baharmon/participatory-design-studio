@@ -33,7 +33,6 @@ and another for the LSU College of Art and Design.
 [Rhino](https://www.rhino3d.com/) |
 [RhinoCAM](https://mecsoft.com/rhinocam-software/) |
 [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) |
-[Adobe Illustrator](http://www.adobe.com/products/illustrator.html) |
 [Adobe InDesign](http://www.adobe.com/products/indesign.html)
 
 **Libraries** | [Xfrog](http://xfrog.com/)
