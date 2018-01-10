@@ -40,6 +40,19 @@ and another for the LSU College of Art and Design.
 **Tutorials** |
 [lecture.lsu.edu/](https://lecture.lsu.edu/)
 
+**Readings**
+* [Coastal Protection Restoration Agency (CPRA), Coastal Masterplan 2017](http://coastal.la.gov/our-plan/2017-coastal-master-plan/)
+* [Dutch National Coastal Strategy](http://rijksoverheid.minienm.nl/nvk/NationalCoastalStrategy.pdf)
+* [World Bank, Cities and Flooding](https://openknowledge.worldbank.org/handle/10986/2241)
+* [Acquatecture](https://www.amazon.com/Aquatecture-Buildings-Designed-Live-Water/dp/1859465315/)
+
+**Resources**
+* [CPRA Masterplan Viewer](https://cims.coastal.louisiana.gov/masterplan/)
+* [CPRA Factsheet](https://cims.coastal.louisiana.gov/meta_docs/gis_refs/mp2017_Project_Factsheets/JEF.02N.pdf)
+* [Surging Seas: Risk Zone Map](https://ss2.climatecentral.org/)
+* [Surging Seas: Fact Sheet](https://riskfinder.climatecentral.org/place/jean-lafitte.la.us)
+* [NOAA Digital Coast Sea Level Rise Viewer](https://coast.noaa.gov/digitalcoast/tools/slr)
+
 **Study area** | Jean Lafitte, Jefferson Parish, Louisiana
 <p align="center">
 <img src="images/jean_lafitte_elevation_2013.png" height="900">
