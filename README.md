@@ -73,6 +73,7 @@ and another for the LSU College of Art and Design.
 **Study area** | Jean Lafitte, Jefferson Parish, Louisiana
 <p align="center">
 <img src="images/jean_lafitte_elevation_2013.png" height="900">
+<img src="images/flooding_50cm.png.png" height="900">
 </p>
 
 ## Network Drive
