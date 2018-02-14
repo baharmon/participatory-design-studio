@@ -76,7 +76,7 @@ and another for the LSU College of Art and Design.
 </p>
 
 <p align="center">
-<img src="images/flooding_50cm.png.png" height="900">
+<img src="images/flooding_50cm.png" height="900">
 </p>
 
 
